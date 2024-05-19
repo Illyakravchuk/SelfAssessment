@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
+  - Procedural programming ~
   - Imperative programming 
-  - Structured programming 👂 heard
-  - Non-structured programming 👂 heard
-  - Functional programming 🖐️ used
-  - Prototype-based programming 👂 heard
-  - Object-oriented programming 🖐️ used
+  - Structured programming ~
+  - Non-structured programming ~
+  - Functional programming *
+  - Prototype-based programming ~
+  - Object-oriented programming *
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming 🖐️ used
-  - Parallel programming 🖐️ used
+  - Asynchronous programming *
+  - Parallel programming *
   - Reactive programming 
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -27,20 +27,20 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
-  - Getters, Setters 👂 heard
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 👂 heard
+  - Constructor *
+  - Operator `new` *
+  - Static method  *
+  - Method *
+  - Async method *
+  - Getters, Setters ~
+  - Public fields *
+  - Private fields *
+  - Field declarations ~
   - Inheritance
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 👂 heard
-  - Interface 👂 heard
+  - Parent class *
+  - Polymorphism *
+  - Abstract class ~
+  - Interface ~
   - Encapsulation
   - Hidden class
   - Object form
@@ -64,7 +64,7 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton 👂 heard
+  - Singleton ~
   - Factory Method 
   - Abstract Factory
   - Adapter
