@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
-  - Imperative programming 
-  - Structured programming 👂 heard
-  - Non-structured programming 👂 heard
-  - Functional programming 🖐️ used
-  - Prototype-based programming 👂 heard
-  - Object-oriented programming 🖐️ used
+  - Procedural programming: 👂 heard
+  - Imperative programming
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming 🖐️ used
-  - Parallel programming 🖐️ used
-  - Reactive programming 
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,20 +27,20 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
-  - Getters, Setters 👂 heard
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 👂 heard
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 👂 heard
   - Inheritance
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 👂 heard
-  - Interface 👂 heard
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 
+  - Singleton: 👂 heard
+  - Factory Method
   - Abstract Factory
   - Adapter
   - Observer

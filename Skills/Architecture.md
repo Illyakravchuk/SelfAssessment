@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity 🖐️ used
-  - Components 🖐️ used
-  - Directories 🖐️ used
-  - GRASP 👂 heard
-  - SOLID 
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code 👂 heard
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -21,7 +21,7 @@
   - Reliability
   - Quality
   - Availability
-  - Flexibility 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -32,7 +32,7 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI) 👂 heard
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -43,9 +43,9 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram 👂 heard
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
-  - UML 👂 heard
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
