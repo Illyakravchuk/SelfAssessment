@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt` *
-  - `String` *
-  - `Symbol` ~
-  - `Infinity *
-  - `NaN` *
-  - `undefined` *
-  - `null` *
-  - `this` *
-  - `instanceof` ~
-  - `...spread` +
-  - `...rest` +
-  - `typeof` *
-  - Destructuring *
-  - Generators  *
-  - Iterators *
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 👂 heard
+  - `Infinity: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 👂 heard
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -28,28 +28,28 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window` ~
-  - Getters and setters *
-  - `__proto__` 
-  - `prototype` ~
-  - Equality operators *
-  - Logical operators *
+  - `window`: 👂 heard
+  - Getters and setters: 🖐️ used
+  - `__proto__`
+  - `prototype`: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators ~
-  - Ternary operator *
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
-  - `await` *
-  - Template literal *
-  - Strict mode *
+  - `await`: 🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete` ~
-  - `in` ~
+  - `delete`: 👂 heard
+  - `in`: 👂 heard
   - `super`
-  - `eval` 
-  - `static` ~
-  - `Number.parseInt` ~
-  - `Number.parseFloat` ~
+  - `eval`
+  - `static`: 👂 heard
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,64 +59,64 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` *
-  - `while` *
-  - `do..while` *
-  - `for` *
-  - `for..in` *
-  - `for..of` *
-  - `for await` *
-  - `throw` *
-  - `break` *
-  - `continue` *
-  - `import` *
-  - `export` *
-  - `label` 
-  - `try..catch` *
-  - `switch` *
-  - `class` *
-  - `extends` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🖐️ used
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
   - `with`
-  - `new` *
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function *
-  - Async function *
-  - Function declaration *
-  - Function expression *
-  - Default parameters *
-  - Functional object *
-  - `Function.prototype.call` ~
-  - `Function.prototype.bind` ~
-  - `Function.prototype.apply` ~
-  - `return` *
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` *
-  - `Map` *
-  - `Set` *
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays ~
+  - Typed arrays: 👂 heard
   - Mixins
-  - `Object.assign` *
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp` ~
-  - `Date` ~
-  - `Math` *
+  - `RegExp`: 👂 heard
+  - `Date`: 👂 heard
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` *
-  - `Atomics` ~
-  - `JSON` *
+  - `Error`: 🖐️ used
+  - `Atomics`: 👂 heard
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` *
-  - `console` *
-  - Timers *
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8 +
-  - Node.js *
-  - npm *
-  - prettier *
-  - MDN *
+  - V8: 🎓 known
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

@@ -4,33 +4,33 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases ~
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules *
-  - ECMAScript modules *
-  - Module `node:module` +
-  - Caching in CJS and ESM *
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 🎓 known
+  - Caching in CJS and ESM: 🖐️ used
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` *
-  - Files `package.json`, `package-lock.json *
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection ~
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments *
-  - Node.js CLI *
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
-  - Clustering ~
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -54,7 +54,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL` ~
+  - Module `node:url` vs `new URL`: 👂 heard
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
@@ -65,61 +65,61 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API ~
+  - Fetch API: 👂 heard
   - IncomingMessage
-  - HTTP(S) ~
-  - TCP/SSL ~
-  - UDP ~
-  - TLS ~
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
+  - TLS: 👂 heard
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing ~
+  - Routing: 👂 heard
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS  ~
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
-  - keep-alive *
+  - keep-alive: 🖐️ used
   - IP sticky sessions
 - Technique and tools
-  - Native test runner ~
-  - Logging ~
-  - Application configuring ~
-  - Testing *
-  - CI/CD *
+  - Native test runner: 👂 heard
+  - Logging: 👂 heard
+  - Application configuring: 👂 heard
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer ~
-  - Console *
+  - Buffer: 👂 heard
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository *
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD *
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error` ~
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
-  - `error.message` ~
+  - `error.message`: 👂 heard
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools *
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory ~
+  - Shared memory: 👂 heard
   - V8 binary serialization

@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop ~
-  - `try..catch` *
+  - Event loop: 👂 heard
+  - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O ~
-  - Thread pool +
+  - Async I/O: 👂 heard
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,28 +14,28 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks +
+  - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming *
-  - Parallel programming *
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread *
-  - Process *
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks *
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable +
-  - Promise *
-  - Async/await *
+  - Thenable: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
-  - Async Generator 
-  - Async Iterator 
-  - Event ~
+  - Async Generator
+  - Async Iterator
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
-  - Signal ~
+  - Signal: 👂 heard
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,26 +47,26 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter ~
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
   - Transform
   - Async Pool
-  - Async Queue ~
+  - Async Queue: 👂 heard
   - Async Collector
-  - Semaphore +
-  - Mutex ~
+  - Semaphore: 🎓 known
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers *
+  - Timers: 🖐️ used
   - `setImmediate`
-  - `nextTick` ~
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics ~
+  - Atomics: 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell
