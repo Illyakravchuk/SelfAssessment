@@ -14,7 +14,7 @@
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🎓 known
-  - Caching in CJS and ESM
+  - Caching in CJS and ESM: 🖐️ used
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
@@ -26,11 +26,11 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
@@ -65,12 +65,12 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - HTTP(S): 👂 heard
   - TCP/SSL: 👂 heard
   - UDP: 👂 heard
-  - TLS
+  - TLS: 👂 heard
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -86,10 +86,10 @@
   - DNS: 👂 heard
   - SQL injection
   - noDelay
-  - keep-alive
+  - keep-alive: 🖐️ used
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner: 👂 heard
   - Logging: 👂 heard
   - Application configuring: 👂 heard
   - Testing: 🖐️ used
@@ -98,7 +98,7 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer: 👂 heard
   - Console: 🖐️ used
   - Inspector
 - Data access
@@ -119,7 +119,7 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks

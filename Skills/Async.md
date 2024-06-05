@@ -5,7 +5,7 @@
   - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O: 👂 heard
-  - Thread pool
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -16,8 +16,8 @@
   - Race conditions
   - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
   - Thread: 🖐️ used
   - Process: 🖐️ used
@@ -25,7 +25,7 @@
   - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable: 🎓 known
-  - Promise: 👂 heard
+  - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future
   - Deferred
@@ -47,13 +47,13 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue: 👂 heard
   - Async Collector
   - Semaphore: 🎓 known
   - Mutex: 👂 heard
@@ -61,7 +61,7 @@
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`
-  - `nextTick`
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection

@@ -2,7 +2,7 @@
 
 - Theory
   - Procedural programming: 👂 heard
-  - Imperative programming
+  - Imperative programming: 👂 heard
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
@@ -17,7 +17,7 @@
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus

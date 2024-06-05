@@ -3,7 +3,7 @@
 - Concepts
   - Model: 🖐️ used
   - Modeling: 🖐️ used
-  - Subject domain
+  - Subject domain: 👂 heard
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
   - Semantics: 🖐️ used
@@ -48,7 +48,7 @@
   - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
-  - Lexical scope
+  - Lexical scope: 👂 heard
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
@@ -62,13 +62,13 @@
   - Camel case: 🖐️ used
   - Snake case: 🖐️ used
   - Kebab case: 🖐️ used
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
+  - Fail-fast: 🖐️ used
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
-  - Type systems
+  - Type systems: 👂 heard
   - Strong typing: 👂 heard
   - Weak typing
   - Duck typing
@@ -87,7 +87,7 @@
   - Pure function: 👂 heard
   - Lambda expression: 🖐️ used
   - Side effects: 🎓 known
-  - Closure
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
@@ -187,7 +187,7 @@
   - Premature optimization
   - Micro-optimization: 👂 heard
   - Nested loops: 🎓 known
-  - Long method/function/procedure: 👂 heard
+  - Long method/function/procedure: 🎓 known
   - Long inheritance: 👂 heard
   - Large class/file
   - Too many parameters: 🎓 known

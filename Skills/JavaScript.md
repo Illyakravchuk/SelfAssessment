@@ -8,14 +8,14 @@
   - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
   - `Symbol`: 👂 heard
-  - `Infinity: 👂 heard
+  - `Infinity: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 👂 heard
-  - `...spread`: 👂 heard
-  - `...rest`: 👂 heard
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
@@ -40,7 +40,7 @@
   - `void`
   - `yield`
   - `await`: 🖐️ used
-  - Template literal
+  - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 👂 heard
@@ -84,20 +84,20 @@
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: 👂 heard
-  - `Set`: 👂 heard
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays: 👂 heard
   - Mixins
-  - `Object.assign`: 👂 heard
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`: 👂 heard
@@ -110,11 +110,11 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 👂 heard
+  - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 👂 heard
+  - V8: 🎓 known
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality: 👂 heard
   - Availability
   - Flexibility: 👂 heard
   - Law of Demeter (LoD)
@@ -51,7 +51,7 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code

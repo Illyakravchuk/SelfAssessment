@@ -3,18 +3,18 @@
 - Theory and concepts
   - Data types: 🖐️ used
   - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Migrations: 👂 heard
+  - Schema versioning: 🖐️ used
   - Backup and recovery
   - Database scalability
   - Relational databases: 🖐️ used
   - Key-value store: 👂 heard
   - Tuple store
-  - Graph databases
+  - Graph databases: 🖐️ used
   - Object databases: 🖐️ used
-  - Column databases
+  - Column databases: 🖐️ used
   - Navigational databases
-  - Hierarchical databases
+  - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
   - Data control language (DCL): 🖐️ used
@@ -29,7 +29,7 @@
   - Foreign keys: 🖐️ used
   - Transactions
   - Views
-  - Subqueries
+  - Subqueries: 👂 heard
   - Stored procedures
   - SQL functions: 🖐️ used
   - Materialized views
@@ -58,7 +58,7 @@
   - `BETWEEN`
   - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE`: 👂 heard
   - `PRIMARY KEY`: 🖐️ used
   - `FOREIGN KEY`: 🖐️ used
   - `CHECK`: 👂 heard
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
+  - Cloud databases: 👂 heard
   - Data Visualization
